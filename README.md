@@ -8,10 +8,11 @@ It will also isolate noise from relevant informations.
 # ⌨ How should you use it?
 Just clone or download the whole repository to your drive and open the .ipynb file into your preferred IDE!
 You will find details on how functions where created in the notebook.
-If you just want result, you can 
-  1) Run the show_peak() function on data for some custom informative EDA 📊
+If you just want result, you can:
+  1) Run the first cells to automatically install dependencies, import packages and load data
+  2) Run the show_peak() function on data for some custom informative EDA 📊
 ![Drivers_EDA](https://github.com/user-attachments/assets/ecd43e30-14cd-460d-b25d-7cb96cd34088)
-  2) Run the show_clusters() function on data by specifying the day (in str with capital first letter e.g., 'Friday') and hour (in 24h format) 🗺
+  3) Run the show_clusters() function on data by specifying the day (in str with capital first letter e.g., 'Friday') and hour (in 24h format) 🗺
 ![Drivers_DBscan](https://github.com/user-attachments/assets/3e14c76a-a49c-4a84-bcd1-56464264f3e7)
 
 # 🔮 Next steps
