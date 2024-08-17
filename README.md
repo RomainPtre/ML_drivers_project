@@ -12,6 +12,7 @@ If you just want result, you can
   1) Run the show_peak() function on data for some informative EDA 📊
 ![Drivers_EDA](https://github.com/user-attachments/assets/ecd43e30-14cd-460d-b25d-7cb96cd34088)
   2) Run the show_clusters() function on data by specifying the day (in str with capital first letter e.g., 'Friday') and hour (in 24h format) 🗺
+![Drivers_DBscan](https://github.com/user-attachments/assets/3e14c76a-a49c-4a84-bcd1-56464264f3e7)
 
 # 🔮 Next steps
 I am currently working on another exciting project involving coffee ☕ that should be up on GitHub really soon.
